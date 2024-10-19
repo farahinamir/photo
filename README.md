@@ -1,1 +1,4 @@
-! [farahin] (https://github.com/farahinamir/photo/commit/9136cdb8a58d6289f0afee5d84f5ec626bc14d16#diff-e66846ed30b594f9ccd784368eaae6c40d268db4a868fbbb20bab787110c7472)
+
+
+! [farahin] (https://github.com/farahinamir/photo/blob/main/farahin.jpeg)
+![farahin (1)](https://github.com/user-attachments/assets/55098868-6c1c-4b20-96e9-4165204dcc35)
