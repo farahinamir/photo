@@ -1,3 +1,4 @@
+
 [![Nurfarahin](https://github.com/your-username/my-profile-banner/blob/main/README.md)](https://github.com/your-username/my-profile-banner)
 
 ![farahin (1)](https://github.com/user-attachments/assets/55098868-6c1c-4b20-96e9-4165204dcc35)
@@ -13,11 +14,11 @@
 
 # SKILLS ⚒️
 ### Computing 💻
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-plastic&logo=Python&color=white) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=white) 
 ### Geology 🪨🌏
-![ArcGIS](https://img.shields.io/badge/-ArcGIS-007BC3?style=flat-square&logo=ArcGIS&color=white) ![Aquifertest](https://img.shields.io/badge/-Aquifertest-0078D7?style=flat-square&logo=Aquifertest&color=blue) ![Aqtesolv Test](https://img.shields.io/badge/-Aqtesolv%20Test-0078D7?style=flat-square&logo=Aqtesolv%20Test&color=blue)![Res2DINV](https://img.shields.io/badge/-Res2DINV-0078D7?style=flat-square&logo=Res2DINV&color=green)  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-0078D7?style=flat-square&logo=AutoCAD&color=red) ![ReflexW](https://img.shields.io/badge/-ReflexW-0078D7?style=flat-square&logo=ReflexW&color=red)![GCDKit](https://img.shields.io/badge/-GCDKit-0078D7?style=flat-square&logo=GCDKit&color=yellow) 
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-007BC3?style=flat-plastic&logo=ArcGIS&color=white) ![Aquifertest](https://img.shields.io/badge/-Aquifertest-0078D7?style=fplastic&logo=Aquifertest&color=blue) ![Aqtesolv Test](https://img.shields.io/badge/-Aqtesolv%20Test-0078D7?style=fplastic&logo=Aqtesolv%20Test&color=blue)![Res2DINV](https://img.shields.io/badge/-Res2DINV-0078D7?style=plastic&logo=Res2DINV&color=green)  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-0078D7?style=plastic&logo=AutoCAD&color=red) ![ReflexW](https://img.shields.io/badge/-ReflexW-0078D7?style=fplastic&logo=ReflexW&color=red)![GCDKit](https://img.shields.io/badge/-GCDKit-0078D7?style=plastic&logo=GCDKit&color=yellow) 
 ### Other 
-![Canva](https://img.shields.io/badge/-Canva-00C497?style=flat-square&logo=Canva&color=white) ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D7?style=flat-square&logo=Microsoft&color=white) ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=Adobe&color=white)-
+![Canva](https://img.shields.io/badge/-Canva-00C497?style=plastic&logo=Canva&color=black) ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D7?style=plastic&logo=Microsoft&color=white) ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=plastic&logo=Adobe&color=oceanblue)-
 
 
 # EXPERIENCES 🔥
@@ -41,7 +42,12 @@
  1. 2022-2023: Head of logistics and technical unit of Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Cianjur
  2. 2021-2022 : Head of logistics and technical unit Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Kemboja 
  3. 2020-2021: Head of logistics and technical unit of Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ International Volunteering Conference.
- 4. 2019: Director of of Program Titian Kasih Kuala Sat Negeri Pahang 
+ 4. 2019: Director of of Program Titian Kasih Kuala Sat Negeri Pahang
+
+<div align="center" style="background-image: url('https://your-image-url.com'); background-size: cover; padding: 20px;">
+  <h1>You are what you <span style="color: #ff69b4;">Thinking</span> of</h1>
+  <p style="font-style: italic; color: #666;">A powerful reminder to stay positive.</p>
+</div>
 
 
 
