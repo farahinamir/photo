@@ -1,7 +1,11 @@
 
-[![Nurfarahin](https://github.com/your-username/my-profile-banner/blob/main/README.md)](https://github.com/your-username/my-profile-banner)
 
-![farahin (1)](https://github.com/user-attachments/assets/55098868-6c1c-4b20-96e9-4165204dcc35)
+<h1 align="center" border-radius: 25px;>Hello friends! 👋, Nurfarahin Here </h1>
+
+<h4 align="center">
+  <img src="https://github.com/user-attachments/assets/55098868-6c1c-4b20-96e9-4165204dcc35" alt="Me" width= "300" height="400" />
+</p>
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/nurfarahin-amir-hamzah-2138391bb/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farah.farahin399@gmail.com)
 
@@ -29,23 +33,24 @@
 
 
 # ACTIVITIES 
+<h4 align="center"> <img src="https://github.com/user-attachments/assets/e4e650ca-f673-40bf-befe-19d696b23fd4" alt="Me" width= "500" height="300" />
 
-![IMG_7399](https://github.com/user-attachments/assets/e4e650ca-f673-40bf-befe-19d696b23fd4)
- 1. 2023: National Geoscience Conference 2023
- 2. 2023-2020: Geological Society of Malaysia Student Chapter, Universiti Malaya.
- 3. 2021-2022: Geoscience Industrial Week Universiti Malaya  
- 4. 2020-2021: Angkatan Mahasiswa Universiti Malaya 
- 5. 2018-2019: Sekretariat Rukun Negara UiTM Pahang
+ 
+ ##### 1. 2023: National Geoscience Conference 2023
+ ##### 2. 2023-2020: Geological Society of Malaysia Student Chapter, Universiti Malaya.
+ ##### 3. 2021-2022: Geoscience Industrial Week Universiti Malaya  
+ ##### 4. 2020-2021: Angkatan Mahasiswa Universiti Malaya 
+ ##### 5. 2018-2019: Sekretariat Rukun Negara UiTM Pahang
 
     
 # VOLUNTEERING
- 1. 2022-2023: Head of logistics and technical unit of Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Cianjur
- 2. 2021-2022 : Head of logistics and technical unit Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Kemboja 
- 3. 2020-2021: Head of logistics and technical unit of Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ International Volunteering Conference.
- 4. 2019: Director of of Program Titian Kasih Kuala Sat Negeri Pahang
+ 1. 2022-2023 : Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Cianjur
+ 2. 2021-2022 : Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Kemboja 
+ 3. 2020-2021 : Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ International Volunteering Conference.
+ 4. 2019: Program Titian Kasih Kuala Sat Negeri Pahang
 
 <div align="center" style="background-image: url('https://your-image-url.com'); background-size: cover; padding: 20px;">
-  <h1>You are what you <span style="color: #ff69b4;">Thinking</span> of</h1>
+  <h1>'You are what you <span style="color: #ff69b4;">Thinking</span> of'</h1>
   <p style="font-style: italic; color: #666;">A powerful reminder to stay positive.</p>
 </div>
 
