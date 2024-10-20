@@ -21,7 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-plastic&logo=Python&color=white) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=white) 
 ### Geology 🪨🌏
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-007BC3?style=flat-plastic&logo=ArcGIS&color=white) ![Aquifertest](https://img.shields.io/badge/-Aquifertest-0078D7?style=fplastic&logo=Aquifertest&color=blue) ![Aqtesolv Test](https://img.shields.io/badge/-Aqtesolv%20Test-0078D7?style=fplastic&logo=Aqtesolv%20Test&color=blue)![Res2DINV](https://img.shields.io/badge/-Res2DINV-0078D7?style=plastic&logo=Res2DINV&color=green)  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-0078D7?style=plastic&logo=AutoCAD&color=red) ![ReflexW](https://img.shields.io/badge/-ReflexW-0078D7?style=fplastic&logo=ReflexW&color=red)![GCDKit](https://img.shields.io/badge/-GCDKit-0078D7?style=plastic&logo=GCDKit&color=yellow) 
-### Other 
+### Other 💥
 ![Canva](https://img.shields.io/badge/-Canva-00C497?style=plastic&logo=Canva&color=black) ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D7?style=plastic&logo=Microsoft&color=white) ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=plastic&logo=Adobe&color=oceanblue)-
 
 
@@ -32,7 +32,7 @@
 2. **Intersnhip Geologist at Preston GeoCem Sdn Bhd (July 2023 - September 2023)**
 
 
-# ACTIVITIES 
+# ACTIVITIES 🎯
 <h4 align="center"> <img src="https://github.com/user-attachments/assets/e4e650ca-f673-40bf-befe-19d696b23fd4" alt="Me" width= "500" height="300" />
 
  
@@ -43,7 +43,7 @@
  ##### 5. 2018-2019: Sekretariat Rukun Negara UiTM Pahang
 
     
-# VOLUNTEERING
+# VOLUNTEERING 👩🏻‍🦽
  1. 2022-2023 : Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Cianjur
  2. 2021-2022 : Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ Kemboja 
  3. 2020-2021 : Borderless Aid Volunteer Project 4.0 (Bravo 4.0) Universiti Malaya @ International Volunteering Conference.
