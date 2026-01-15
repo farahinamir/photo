@@ -11,10 +11,45 @@
 
 
 # BIO
-- 💻 Master student of Data Science in Universiti Technology Malaysia (UTM) with Bachelor Degree of Science in Geology at Universiti Malaya (UM). 
-- 🤔 Passionate learner with a strong analytical mindset, eager to leverage my skills in data sciences, computing, and geology to contribute to innovative solutions in various fields and to discover new knowledge and apply it to real-world challenges.
-- 🌱Aspire to be a geologist-data scientist who dedicated to bridging the gap between Earth science and technology, predicting future events and create a more sustainable world.
+# Hi, I'm Nurfarahin 👋
 
+I'm an entry-level Data Scientist with a background in applied data science and experience working with real-world, structured and geospatial datasets.
+
+I enjoy turning messy data into clear insights through careful data cleaning, exploratory analysis, and model comparison. My academic and industry experience has helped me build a strong foundation in analytical thinking, data quality, and reproducible workflows.
+
+---
+
+## 🔍 What I work with
+- Python (pandas, numpy, scikit-learn)
+- SQL & data querying
+- Exploratory Data Analysis (EDA)
+- Machine learning (supervised models)
+- Data visualization (Power BI, matplotlib)
+- Geospatial data analysis (ArcGIS)
+
+---
+
+## 📂 Featured Projects
+Here are a few projects that reflect how I approach data problems:
+
+- **Earthquake Risk Analysis**  
+  End-to-end analysis including data cleaning, EDA, feature preparation, and model comparison to explore seismic risk patterns.
+
+- **Tsunami Prediction Study**  
+  Compared multiple machine learning approaches and evaluated model behaviour using standard validation techniques.
+
+- **Data Cleaning & Exploration Practice**  
+  Focused on preparing messy datasets and extracting meaningful insights through structured analysis.
+
+---
+
+## 🎯 Currently learning
+- Improving model evaluation and interpretation
+- Writing cleaner, reusable Python functions
+- Strengthening SQL for analytics use cases
+- Understanding data science workflows in production environments
+
+---
 
 # SKILLS ⚒️
 ### Computing 💻
