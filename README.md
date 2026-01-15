@@ -1,6 +1,6 @@
 
 
-<h1 align="center" border-radius: 25px;>Hello friends!, Nurfarahin Here!! 👋 </h1>
+<h1 align="center" border-radius: 25px;>Hi! Nurfarahin Here!👋 </h1>
 
 <h4 align="center">
   <img src="https://github.com/user-attachments/assets/55098868-6c1c-4b20-96e9-4165204dcc35" alt="Me" width= "300" height="400" />
@@ -11,7 +11,7 @@
 
 
 
-# Hi, I'm Nurfarahin 👋
+# BIO
 
 I'm an entry-level Data Scientist with a background in applied data science and experience working with real-world, structured and geospatial datasets.
 
