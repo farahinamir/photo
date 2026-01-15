@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/nurfarahin-amir-hamzah-2138391bb/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farah.farahin399@gmail.com)
 
 
-# BIO
+
 # Hi, I'm Nurfarahin 👋
 
 I'm an entry-level Data Scientist with a background in applied data science and experience working with real-world, structured and geospatial datasets.
