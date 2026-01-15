@@ -24,7 +24,7 @@ I enjoy turning messy data into clear insights through careful data cleaning, ex
 - SQL & data querying
 - Exploratory Data Analysis (EDA)
 - Machine learning (supervised models)
-- Data visualization (Power BI, matplotlib)
+- Data visualization (Power BI, matplotlib, Tableau)
 - Geospatial data analysis (ArcGIS)
 
 ---
@@ -52,9 +52,26 @@ Here are a few projects that reflect how I approach data problems:
 ---
 
 # SKILLS ⚒️
-### Computing 💻
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-plastic&logo=Python&color=white) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=white) 
-### Geology 🪨🌏
+### Computing & Data Analytics 💻
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-plastic&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-plastic&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat-plastic&logo=microsoft-excel&logoColor=white)
+![Alteryx](https://img.shields.io/badge/-Alteryx-05122A?style=flat-plastic&logo=alteryx&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-plastic&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat-plastic&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat-plastic&logo=python&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/-Model%20Evaluation-05122A?style=flat-plastic&logo=python&logoColor=white)
+
+
+
+### VISUALIZATIONS
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-plastic&logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-plastic&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-plastic&logo=python&logoColor=white)
+
+
+### Geology & Geospatial 🪨🌏
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-007BC3?style=flat-plastic&logo=ArcGIS&color=white) ![Aquifertest](https://img.shields.io/badge/-Aquifertest-0078D7?style=fplastic&logo=Aquifertest&color=blue) ![Aqtesolv Test](https://img.shields.io/badge/-Aqtesolv%20Test-0078D7?style=fplastic&logo=Aqtesolv%20Test&color=blue)![Res2DINV](https://img.shields.io/badge/-Res2DINV-0078D7?style=plastic&logo=Res2DINV&color=green)  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-0078D7?style=plastic&logo=AutoCAD&color=red) ![ReflexW](https://img.shields.io/badge/-ReflexW-0078D7?style=fplastic&logo=ReflexW&color=red)![GCDKit](https://img.shields.io/badge/-GCDKit-0078D7?style=plastic&logo=GCDKit&color=yellow) 
 ### Other 💥
 ![Canva](https://img.shields.io/badge/-Canva-00C497?style=plastic&logo=Canva&color=black) ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D7?style=plastic&logo=Microsoft&color=white) ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=plastic&logo=Adobe&color=oceanblue)-
